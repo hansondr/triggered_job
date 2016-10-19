@@ -20,7 +20,7 @@ end
 class MyTriggeredJob < BaseJob
   triggered_by "my_trigger"
 
-  def perform(id, args*)
+  def perform(id, *args)
     # ...
   end
 end
