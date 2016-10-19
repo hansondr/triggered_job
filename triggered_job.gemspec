@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name = "triggered_job"
   s.version = TriggeredJob::VERSION
   s.date = "2016-10-18"
-  s.summary = "do this in the future"
-  s.description = "do this in the future"
+  s.summary = "Simple framework for trigger-based jobs"
+  s.description = "Simple framework for trigger-based jobs"
   s.author = "Daniel Hanson"
   s.email = "hansondr@gmail.com"
   s.files = ["README.md", "LICENSE"]
