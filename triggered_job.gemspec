@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.homepage = "https://github.com/hansondr/triggered_job"
   s.license = "MIT"
 
-  s.add_development_dependency "rspec", ">= 3.5"
+  s.add_development_dependency "rspec", "~> 3.5"
   s.add_development_dependency "simplecov", "~> 0.12"
-  s.add_development_dependency "rake", ">= 11.0"
+  s.add_development_dependency "rake", "~> 11.0"
 end
