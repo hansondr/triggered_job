@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = "do this in the future"
   s.author = "Daniel Hanson"
   s.email = "hansondr@gmail.com"
-  s.files = ["README.md", "LICENSE.md"]
+  s.files = ["README.md", "LICENSE"]
   s.homepage = "https://github.com/hansondr/triggered_job"
   s.license = "MIT"
 
