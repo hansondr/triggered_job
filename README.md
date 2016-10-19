@@ -2,4 +2,4 @@
 
 ## Installation
 
-`gem 'triggered-job'`
+`gem 'triggered_job'`
